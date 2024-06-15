@@ -13,3 +13,5 @@ Mark
 Steve
 Howard
 Nigeria
+Canada
+US
